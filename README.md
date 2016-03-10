@@ -6,5 +6,6 @@ A simplified script for all git command in each folder:
 2, Books
 3, CppPrimer
 4, LeetCode
-5, MotionDetection
+5, GitRepo
+6, MotionDetection
 
