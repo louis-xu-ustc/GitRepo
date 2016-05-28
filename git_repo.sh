@@ -13,7 +13,6 @@ GITHUB_REPOS="https://github.com/louis-xu-ustc/Backup.git \
               https://github.com/louis-xu-ustc/GitRepo.git \
               https://github.com/louis-xu-ustc/LeetCode.git \
               https://github.com/louis-xu-ustc/MotionDetection.git \
-              https://github.com/louis-xu-ustc/CSAPP.git \
              "
 
 TOP_DIR=`pwd`
